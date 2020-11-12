@@ -1,2 +1,2 @@
 # TheHuxley_Python3
-Atividades passadas pela FIT - Faculdade Impacta de Tecnologia para o estudo de Linguagem de Programação na plataforma The Huxley
+Atividades passadas pela Faculdade Impacta para o estudo da linguagem Python 3 na plataforma The Huxley
